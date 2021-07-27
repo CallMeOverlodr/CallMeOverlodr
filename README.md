@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @CallMeOverlodr
-- 👀 I’m interested in pen testing
-- 🌱 I’m currently learning SQL/Postman/Kali
-- 💞️ I’m looking to collaborate with hackers
+
